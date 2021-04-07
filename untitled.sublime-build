@@ -1,0 +1,7 @@
+#this file helps you run python3 in text editor
+#URL: https://towardsdatascience.com/run-python3-on-sublime-text-5949e55450b2
+{
+	"cmd": ["python3", "-i", "-u", "$file"],     
+	"file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",     
+	"selector": "source.python"
+}
