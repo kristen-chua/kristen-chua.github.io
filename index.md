@@ -10,7 +10,6 @@ Kristen Chua is an information services analyst analyst, applied mathematician, 
 Areas of Research:
 - Statistics
 - Causal Inference
-- Data Engineering
 - Information Architecture
 - Human-Computer Interaction (HCI)
 - QuantCrit
