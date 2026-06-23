@@ -14,4 +14,4 @@ Areas of Research:
 - Information Architecture
 - Human-Computer Interaction (HCI)
 - QuantCrit
-- History of STEM education
+- History of Higher education
