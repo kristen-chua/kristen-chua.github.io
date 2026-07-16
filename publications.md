@@ -9,4 +9,6 @@ menuorder: 3
   Ghosh, S., Gogoi, J. & Chua, K. (2023). <em>Exploring the economics of conversational search sessions.</em> Aslib Journal of Information Management.
 </a>
 
-Please feel free to visit my [Research Gate profile](https://www.researchgate.net/profile/Kristen-Chua) for a list of my publications.
+
+
+Please feel free to visit my [Research Gate profile](https://www.researchgate.net/profile/Kristen-Chua) for a list of additional publications.
