@@ -1,3 +1,17 @@
-# Site navigation links not represented by pages can be added here.
-[]
+# Site navigation links
+- menutitle: Home
+  url: /
+  menuorder: 1
+
+- menutitle: Vitae
+  url: /vitae/
+  menuorder: 2
+
+- menutitle: Publications
+  url: /publications/
+  menuorder: 3
+
+- menutitle: Projects
+  url: /projects/
+  menuorder: 4
 
