@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-display_title: "Designing mathematical frameworks for complex systems."
+display_title: "Applying mathematics and computational science to strengthen research, teaching, and service."
 excerpt: "About Kristen Chua"
 menutitle: Home
 menuorder: 1
