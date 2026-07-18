@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-display_title: "Building clearer systems for complex information."
+display_title: "Designing mathematical frameworks for complex systems."
 excerpt: "About Kristen Chua"
 menutitle: Home
 menuorder: 1

@@ -8,6 +8,10 @@ page_class: resume-page
 
 ## Education
 
+`Current`
+__Claremont Graduate University__
+Ph.D. Mathematics and Education Research
+
 `2021-2023`
 __San Jose State University__
 M.S. Informatics
