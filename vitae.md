@@ -1,8 +1,11 @@
 ---
 layout: resume
+title: "Curriculum Vitae"
 menuorder: 2
 menutitle: Vitae
 ---
+
+<p class="page-intro">Information services analyst and interdisciplinary researcher working across analytics, information architecture, and higher education.</p>
 
 ## Education
 
