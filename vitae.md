@@ -3,6 +3,7 @@ layout: resume
 title: "Curriculum Vitae"
 menuorder: 2
 menutitle: Vitae
+page_class: resume-page
 ---
 
 ## Education

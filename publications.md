@@ -4,6 +4,8 @@ title: "Selected Publications"
 excerpt: "Selected Publications"
 menutitle: Selected Publications
 menuorder: 3
+page_class: publications
+share: false
 ---
 
 <a href="https://www.emerald.com/ajim/article-abstract/76/4/613/1216973/Exploring-the-economics-of-conversational-search?redirectedFrom=PDF" target="_blank" rel="noopener noreferrer">

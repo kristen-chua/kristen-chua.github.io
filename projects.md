@@ -4,6 +4,8 @@ title: "Selected Projects"
 excerpt: "About Me..."
 menutitle: Projects
 menuorder: 4
+page_class: projects
+share: false
 ---
 
 [Service Platform Modernization](https://cdlib.org/cdlinfo/2023/02/17/cdl-information-services-and-uc-courier-management-ticketing-systems-migration-from-footprints-to-freshdesk/) — Contributed to the migration of the California Digital Library Helpline and UC Courier Management services from Footprints to Freshdesk, supporting the redesign of support workflows, user onboarding, knowledge management, and technical documentation for a systemwide library service platform serving the University of California.

@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="page">
+<body class="page{% if page.page_class %} {{ page.page_class }}{% endif %}">
 
 {% include _browser-upgrade.html %}
 
