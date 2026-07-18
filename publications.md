@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Selected Publications"
 excerpt: "Selected Publications"
 menutitle: Selected Publications
 menuorder: 3

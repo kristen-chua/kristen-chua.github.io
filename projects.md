@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Selected Projects"
 excerpt: "About Me..."
 menutitle: Projects
 menuorder: 4
