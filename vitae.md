@@ -46,18 +46,21 @@ Andrews Scholar, Notre Dame Center for Social Concerns
 ### Journals
 
 `2023`
-[**Exploring the economics of conversational search sessions**](https://www.emerald.com/ajim/article-abstract/76/4/613/1216973/Exploring-the-economics-of-conversational-search?redirectedFrom=fulltext), *Aslib Journal of Information Management*
+[Exploring the economics of conversational search sessions](https://www.emerald.com/ajim/article-abstract/76/4/613/1216973/Exploring-the-economics-of-conversational-search?redirectedFrom=fulltext), *Aslib Journal of Information Management*
 
 `2021`
 ["Don't Downvote A\$\$\$\$\$\$s!!": An Exploration of Reddit's Advice Communities](https://www.researchgate.net/publication/354779319_Don't_Downvote_As_An_Exploration_of_Reddit's_Advice_Communities), HICSS 2022
 
 ## Presentations
 
+`2025`
+A Synthesis of the Literature on K-20 Teachers’ perceptions and use of AI-powered Diagnostic and Scaffolding tools. Graduate Research Presentation, Claremont Graduate University.
+
 `2022`
-**Reimagining the Studio Ghibli Museum Website: A Human-Centered Design Case Study, CLRK Consulting**
+Reimagining the Studio Ghibli Museum Website: A Human-Centered Design Case Study, CLRK Consulting
 
 `2021`
-Library Analytics with Microsoft Excel, Assessment for Change Team. Please contact me for more information about a recording. 
+Library Analytics with Microsoft Excel, Assessment for Change Team.
 
 
 ## Occupation
