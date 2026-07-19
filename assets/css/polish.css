@@ -405,7 +405,8 @@ a:hover {
   box-shadow: 0 10px 28px rgba(22, 50, 79, 0.055);
 }
 
-.projects .article-wrap > p > a:first-child {
+.projects .article-wrap > p > a:first-child,
+.projects .article-wrap > p > strong:first-child {
   display: block;
   margin-bottom: 0.45rem;
   color: var(--navy);
