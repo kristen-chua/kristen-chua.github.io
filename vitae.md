@@ -27,6 +27,12 @@ STAR Award Recipient, University of California, Office of the President
 `2023`
 STAR Award Recipient, University of California, Office of the President
 
+`2023`
+Director's Award for Excellence in Innovation, San Jose State University
+
+`2023`
+Director’s Award for Excellence in International Contribution, San Jose State University
+
 `2021`
 STAR Award Recipient, University of California, Los Angeles 
 
