@@ -54,7 +54,7 @@ Andrews Scholar, Notre Dame Center for Social Concerns
 ## Presentations
 
 `2022`
-Studio Ghibli Website Redesign Presentation, CLRK Consulting (Human Centered Design Team). Please contact me for more information about a recording. 
+**Reimagining the Studio Ghibli Museum Website: A Human-Centered Design Case Study, CLRK Consulting**
 
 `2021`
 Library Analytics with Microsoft Excel, Assessment for Change Team. Please contact me for more information about a recording. 
