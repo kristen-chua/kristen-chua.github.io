@@ -21,6 +21,12 @@ __University of Notre Dame__
 B.S. Applied Computational Mathematics and Statistics
 
 ## Awards
+`2026`
+STAR Award Recipient, University of California, Office of the President
+
+`2023`
+STAR Award Recipient, University of California, Office of the President
+
 `2021`
 STAR Award Recipient, University of California, Los Angeles 
 
