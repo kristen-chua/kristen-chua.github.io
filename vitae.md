@@ -56,6 +56,9 @@ Andrews Scholar, Notre Dame Center for Social Concerns
 `2025`
 A Synthesis of the Literature on K-20 Teachers’ perceptions and use of AI-powered Diagnostic and Scaffolding tools. Graduate Research Presentation, Claremont Graduate University.
 
+`2025`
+Open Access, Times Higher Education Institutional Rank, and Citation Impact: A Cross-Classified Analysis of Artificial Intelligence Research Publications. Graduate Research Presentation, Claremont Graduate University.
+
 `2022`
 Reimagining the Studio Ghibli Museum Website: A Human-Centered Design Case Study, CLRK Consulting
 
