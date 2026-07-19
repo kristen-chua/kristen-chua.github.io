@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-display_title: "Applying mathematics and computational science to strengthen research, teaching, and service."
+display_title: "Applying mathematics and computational science to research and public service"
 excerpt: "About Kristen Chua"
 menutitle: Home
 menuorder: 1
