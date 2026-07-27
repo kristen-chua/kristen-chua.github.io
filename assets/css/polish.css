@@ -570,13 +570,14 @@ a:hover {
   }
 
   .top-navigation {
-    overflow-x: auto;
+    overflow: visible;
   }
 
   .top-navigation ul,
   .js .nav ul,
   .no-js .nav ul {
-    width: max-content;
+    flex-wrap: wrap;
+    width: 100%;
   }
 
   #main {
