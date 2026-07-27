@@ -15,3 +15,7 @@
   url: /projects/
   menuorder: 4
 
+- menutitle: "Leadership & Service"
+  url: /leadership-service/
+  menuorder: 5
+
