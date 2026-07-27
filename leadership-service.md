@@ -8,9 +8,18 @@ page_class: leadership-service
 share: false
 ---
 
-<p class="page-intro">Selected community leadership roles centered on program delivery, fundraising, mentorship, and participant engagement.</p>
+<p class="page-intro">Selected community leadership and service roles centered on crisis support, program delivery, fundraising, mentorship, and participant engagement.</p>
 
 <div class="service-grid">
+  <section class="service-card">
+    <h2>Crisis Text Line — Volunteer Crisis Counselor (2023–Present)</h2>
+    <ul>
+      <li>Provide confidential, text-based crisis intervention and emotional support to individuals experiencing suicidal ideation, self-harm, abuse, depression, anxiety, and other mental health crises.</li>
+      <li>Utilize evidence-based crisis intervention techniques, including active listening, collaborative problem-solving, suicide risk assessment, and safety planning.</li>
+      <li>Completed comprehensive training in cultural responsiveness, suicide prevention, de-escalation, trauma-informed communication, and crisis intervention best practices.</li>
+    </ul>
+  </section>
+
   <section class="service-card">
     <h2>The Living Camp Executive Committee – Programs Lead (2021)</h2>
     <p>Co-directed program planning and execution, coordinating activities and logistics to create engaging experiences for participants while collaborating with fellow leaders to support successful event delivery.</p>

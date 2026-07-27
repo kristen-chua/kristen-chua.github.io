@@ -485,6 +485,22 @@ a:hover {
   line-height: 1.68;
 }
 
+.service-card ul {
+  margin: 0;
+  padding-left: 1.2rem;
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.68;
+}
+
+.service-card li + li {
+  margin-top: 0.65rem;
+}
+
+.service-card li::marker {
+  color: var(--teal);
+}
+
 .resume {
   margin-top: 0 !important;
 }
