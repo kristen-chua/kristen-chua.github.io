@@ -8,7 +8,7 @@ page_class: projects
 share: false
 ---
 
-**Supporting Open Science through Research Data Infrastructure:** Designed and implemented research data and information infrastructure to support open science initiatives at the NOAA Central Library, improving the accessibility, organization, and long-term stewardship of scientific information and metadata.
+[Supporting Open Science through Research Data Infrastructure with the National Oceanic and Atmosopheric Administraion]([https://www.library.noaa.gov/bibliometrics]) —  Designed and implemented research data and information infrastructure to support open science initiatives at the NOAA Central Library, improving the accessibility, organization, and long-term stewardship of scientific information and metadata.
 
 [Service Platform Modernization](https://cdlib.org/cdlinfo/2023/02/17/cdl-information-services-and-uc-courier-management-ticketing-systems-migration-from-footprints-to-freshdesk/) — Contributed to the migration of the California Digital Library Helpline and UC Courier Management services from Footprints to Freshdesk, supporting the redesign of support workflows, user onboarding, knowledge management, and technical documentation for a systemwide library service platform serving the University of California.
 
