@@ -11,7 +11,7 @@ page_class: home-page
 
 <p class="home-kicker">Researcher · Technologist · Applied Mathematician</p>
 
-<p class="home-lede">I develop analytics infrastructure and information systems that help institutions and people understand complex data, make informed decisions, and navigate the scholarly information landscape.</p>
+<p class="home-lede">I develop computational and mathematical methods to study educational systems, with ongoing attention to how perspective and access shape research questions, data, and outcomes.</p>
 
 <div class="home-actions">
   <a class="home-button" href="{{ site.github.url }}/projects/">Explore selected projects <span aria-hidden="true">→</span></a>
