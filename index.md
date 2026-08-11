@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-display_title: "Applying mathematics and computational science to higher education research and public service"
+display_title: "Applying mathematics, computational science, and systems thinking to higher education and public service"
 excerpt: "About Kristen Chua"
 menutitle: Home
 menuorder: 1
@@ -11,7 +11,7 @@ page_class: home-page
 
 <p class="home-kicker">Researcher · Technologist · Applied Mathematician</p>
 
-<p class="home-lede">I develop computational and mathematical methods to study educational systems, with ongoing attention to how perspective and access shape research questions, data, and outcomes.</p>
+<p class="home-lede">I study how institutions, technologies, and people interact to shape knowledge and education. My work draws across quantitative, computational, historical, and humanistic approaches to understand these relationships, build useful infrastructure, and support better-informed decisions.</p>
 
 <div class="home-actions">
   <a class="home-button" href="{{ site.github.url }}/projects/">Explore selected projects <span aria-hidden="true">→</span></a>
