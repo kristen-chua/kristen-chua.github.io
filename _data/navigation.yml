@@ -7,15 +7,10 @@
   url: /vitae/
   menuorder: 2
 
-- menutitle: Publications
-  url: /publications/
-  menuorder: 3
-
-- menutitle: Projects
+- menutitle: Research
   url: /projects/
-  menuorder: 4
+  menuorder: 3
 
 - menutitle: "Leadership & Service"
   url: /leadership-service/
-  menuorder: 5
-
+  menuorder: 4

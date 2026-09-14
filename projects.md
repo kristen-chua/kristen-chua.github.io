@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Selected Projects"
+title: "Research"
 excerpt: "About Me..."
-menutitle: Projects
-menuorder: 4
+menutitle: Research
+menuorder: 3
 page_class: projects
 share: false
 ---
@@ -17,3 +17,11 @@ share: false
 [UX Design Project](https://ischool.sjsu.edu/about/showcase/2023/taxonomy-metadata-asset-organization-videos) — Conducted a usability and information architecture review of the Studio Ghibli Museum website, examining how design choices affect information discovery, user navigation, accessibility, and the communication of institutional information to diverse audiences. Featured in the 2023 SJSU iSchool Student Showcase
 
 [Digital Humanities Exhibit](https://digital-exhibits.library.nd.edu/04f477d5b4/preserving-the-steadfastness-of-your-faith) — Developed a digital exhibit and accompanying bibliography for the University of Notre Dame's Rare Books & Special Collections, showcasing primary sources on Catholics in the Early American Republic. The project integrated archival research, digital storytelling, metadata, and information architecture to make historical collections more discoverable and accessible online.
+
+## Selected Publications
+
+<a href="https://www.emerald.com/ajim/article-abstract/76/4/613/1216973/Exploring-the-economics-of-conversational-search?redirectedFrom=PDF" target="_blank" rel="noopener noreferrer">
+  Ghosh, S., Gogoi, J. & Chua, K. (2023). <em>Exploring the economics of conversational search sessions.</em> Aslib Journal of Information Management.
+</a>
+
+Please feel free to visit my [Research Gate profile](https://www.researchgate.net/profile/Kristen-Chua) for a list of additional publications.
