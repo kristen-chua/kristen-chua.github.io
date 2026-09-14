@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-display_title: "Applying mathematics, computational science, and systems thinking to higher education and public service"
+display_title: "Applied Mathematician | Higher Education Researcher | Computational Social Scientist"
 excerpt: "About Kristen Chua"
 menutitle: Home
 menuorder: 1
